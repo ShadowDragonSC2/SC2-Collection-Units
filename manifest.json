@@ -1,0 +1,10 @@
+{
+    "$schema": "file:///D:/My%20Project/sc2p-schemas/json/repo-manifest.json",
+    "title": {
+        "enUS": "test collection units"
+    },
+    "meta-releases": {
+        "prefix": "package",
+        "pos":"end"
+    }
+}
